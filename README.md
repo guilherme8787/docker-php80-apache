@@ -16,9 +16,7 @@ Uso
 
     git clone https://github.com/guilherme8787/docker-php80-apache.git
 
-
     cd docker-php80-apache
-
 
     docker-compose up -d --build
 
